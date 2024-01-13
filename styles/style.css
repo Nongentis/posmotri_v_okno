@@ -209,7 +209,9 @@ video {
 }
 
 .title {
-  padding: 0 0 26px;
+  margin: 0 0 26px;
+  height: 207px;
+
   color: #FFF;
   font-family: Oswald, sans-serif;
   font-weight: 700;
